@@ -1,5 +1,5 @@
 {
-    "name": "m1ome/phalcon-datatables",
+    "name": "sitchi/phalcon-datatables",
     "description": "DataTables adapter for Phalcon Framework",
     "keywords": ["Phalcon", "DataTables", "Plugin"],
     "license": "MIT",
@@ -22,9 +22,5 @@
       "branch-alias": {
         "dev_master": "1.0-dev"
       }
-    },
-    "require-dev": {
-      "crysalead/kahlan": "~1.1",
-      "fzaninotto/faker": "1.5.*@dev"
     }
 }
