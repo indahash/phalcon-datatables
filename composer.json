@@ -14,18 +14,12 @@
   },
   "authors": [
     {
-      "name": "Pavel Makarenko", 
+      "name": "Pavel Makarenko",
       "email": "cryfall@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=7.3",
     "ext-phalcon": "~4.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev_master": "2.0-dev"
-    }
   }
 }
