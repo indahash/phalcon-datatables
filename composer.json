@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": ">=7.3",
-    "ext-phalcon": "^4.0.0"
+    "ext-phalcon": ">=4"
   },
   "minimum-stability": "dev"
 }
