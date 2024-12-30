@@ -8,7 +8,7 @@ abstract class AdapterInterface {
 
   protected $parser  = null;
   protected $columns = [];
-  protected $lentgh  = 30;
+  protected $length  = 30;
 
   public function __construct($length) {
     $this->length = $length;
